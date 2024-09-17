@@ -24,12 +24,12 @@ The Money Tracker App is a full-stack web application designed to help users man
 1. **Clone the repository**:
 
     ``` bash
-    git clone https://github.com/your-username/money-tracker-app.git
+    https://github.com/Adithya-bs/Money-Tracker.git
     ```
 
 2. **Install dependencies**:
 
-    Navigate to the root of the project and run:
+    Navigate to the backend directory and run:
 
     ``` bash
     npm install
