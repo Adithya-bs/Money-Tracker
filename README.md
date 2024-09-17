@@ -23,23 +23,23 @@ The Money Tracker App is a full-stack web application designed to help users man
 
 1. **Clone the repository**:
 
-    \`\`\`bash
+    ``` bash
     git clone https://github.com/your-username/money-tracker-app.git
-    \`\`\`
+    ```
 
 2. **Install dependencies**:
 
     Navigate to the root of the project and run:
 
-    \`\`\`bash
+    ``` bash
     npm install
-    \`\`\`
+    ```
 
     Then navigate to the /client directory and run:
 
-    \`\`\`bash
+    ``` bash
     npm install
-    \`\`\`
+    ```
 
 3. **Set up environment variables**:
 
@@ -49,15 +49,15 @@ The Money Tracker App is a full-stack web application designed to help users man
 
     To start the backend, navigate to the root directory and run:
 
-    \`\`\`bash
+    ``` bash
     npm run server
-    \`\`\`
+    ```
 
     To start the frontend, navigate to the /client directory and run:
 
-    \`\`\`bash
+    ``` bash
     npm start
-    \`\`\`
+    ```
 
     **Open in browser**:
     Visit http://localhost:3000 to view the application in action.
